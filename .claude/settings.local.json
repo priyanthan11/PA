@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth:*)",
+      "Bash(mkdir -p \"C:/_____ DeepLearning AI/2 Deep Learning Pytorch/3 PyTorch Advanced Architecture and Deployment/PA/models\")",
+      "Bash(mkdir -p \"C:/_____ DeepLearning AI/2 Deep Learning Pytorch/3 PyTorch Advanced Architecture and Deployment/PA/data\")",
+      "Bash(mkdir -p \"C:/_____ DeepLearning AI/2 Deep Learning Pytorch/3 PyTorch Advanced Architecture and Deployment/PA/utils\")",
+      "mcp__ide__executeCode"
+    ]
+  }
+}
